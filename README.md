@@ -1,4 +1,4 @@
-<h1>Hi there, 👋 I'm Ankush Patil</h1>  
+### Hi there, 👋 I'm Ankush Patil  
 
 💡 **Pharma R&D professional transitioning into Data Analytics**  
 📈 Currently developing strong skills in data tools & analytics workflows  
