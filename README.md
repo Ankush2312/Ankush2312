@@ -1,4 +1,4 @@
-### Hi there, 👋 I'm Ankush Patil  
+<h1>Hi there, 👋 I'm Ankush Patil</h1>  
 
 💡 **Pharma R&D professional transitioning into Data Analytics**  
 📈 Currently developing strong skills in data tools & analytics workflows  
@@ -12,12 +12,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
 </p>  
-
----
-
-### 🧩 Goals  
-- Build real-world analytics projects  
-- Master data visualization & dashboards  
 
 ---
 
