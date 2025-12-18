@@ -15,6 +15,13 @@
 
 ---
 
+### 🧩 Goals  
+- Build real-world analytics projects  
+- Master data visualization & dashboards  
+- Move into a full-time Data Analytics role  
+
+---
+
 ### 🌐 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/ankush-patil-56b285374" target="_blank">
@@ -22,6 +29,9 @@
   </a>
   <a href="https://www.instagram.com/kushh_2312" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="30" alt="Instagram" />
+  </a>
+  <a href="mailto:kush231200@gmail.com" target="_blank">
+    <img src="https://tse1.mm.bing.net/th/id/OIP.C09DX59GoW0Ap7KWmCdjFQHaHa?cb=ucfimg2&pid=ImgDet&ucfimg=1&w=184&h=184&c=7&dpr=1.3&o=7&rm=3" height="30" alt="Gmail" />
   </a>
 </p>  
 
