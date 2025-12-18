@@ -18,7 +18,6 @@
 ### 🧩 Goals  
 - Build real-world analytics projects  
 - Master data visualization & dashboards  
-- Move into a full-time Data Analytics role  
 
 ---
 
